@@ -1,0 +1,30 @@
+Exercise 1
+印出自己的名字其中一個字的UTF-8編碼的bytes值。(不要給我用英文名去印)
+宜
+E5 AE 9C
+
+Exercise 2
+印出自己的名字其中一個字的Big5編碼的bytes值。(不要給我用英文名去印)
+宜
+A9 79
+
+Exercise 3
+印出自己的名字其中一個字的unicode code point值。(不要給我用英文名去印)
+宜
+23452
+
+Exercise 4
+"\u597D"這是什麼字?
+好
+
+Exercise 5
+請用Java的API，判斷注音符號ㄅㄆㄇ，是不是中文。
+不是
+
+Exercise 6
+UTF-8跟UTF-16，分別最多可能會有幾個bytes?
+UTF-8  6 bytes (some of them may be not required right now). 
+UTF-16 4 bytes
+
+
+ 
