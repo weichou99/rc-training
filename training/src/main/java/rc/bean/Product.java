@@ -1,4 +1,4 @@
-package rc.sum;
+package rc.bean;
 
 import java.math.BigDecimal;
 
